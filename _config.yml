@@ -269,8 +269,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Jiang, JIANG, jiang]
+  first_name: [Yuanhao, yuanhao]
 
   style: apa
   locale: en
@@ -335,6 +335,7 @@ imagemagick:
     - ".jpeg"
     - ".png"
     - ".tiff"
+    - ".JPG"
   output_formats:
     webp: "-resize 800x"
 
@@ -410,9 +411,10 @@ jekyll_get_json:
     json: assets/json/resume.json # it can also be an url
 jsonresume:
   - basics
-  - work
   - education
+  - work
   - publications
+  - experience
   - projects
   - volunteer
   - awards
