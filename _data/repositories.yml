@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - yuanhao-jiang
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - yuanhao-jiang/RL-in-QF
+  - yuanhao-jiang/ml-translation
+  - yuanhao-jiang/ml-handwriting-recognition
+  - yuanhao-jiang/java_game_engine
