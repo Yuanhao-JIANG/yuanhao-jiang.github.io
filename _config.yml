@@ -171,6 +171,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  notes:
+    output: true
+    permalink: /notes/:path/
 
 announcements:
   enabled: true
@@ -353,7 +356,7 @@ jekyll-diagrams:
 # -----------------------------------------------------------------------------
 
 enable_google_analytics:    false  # enables google analytics
-enable_cronitor_analytics: false  # enables cronitor RUM analytics
+enable_cronitor_analytics:  false  # enables cronitor RUM analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arrangement
@@ -366,7 +369,8 @@ enable_navbar_social:       false  # enables displaying social links in the
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
-enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar:         true   # enables a horizontal progress bar linked to
+                                   # the vertical scroll position
 
 # -----------------------------------------------------------------------------
 # Library versions
