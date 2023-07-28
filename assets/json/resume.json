@@ -85,7 +85,36 @@
       "summary": "The LMS Undergraduate Summer Schools are annual two-week courses, which are held every Summer at a UK university. The aim is to introduce modern mathematics to the best UK undergraduates who will enter their final year the following Autumn, and encourage them to think about an academic career in maths. The LMS Undergraduate Summer School consists of a combination of short lecture courses with problem-solving sessions and colloquium-style talks from leading mathematicians. 50 places are available to students per year."
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Python",
+      "keywords": ["PyTorch", "Matplotlib", "NumPy"]
+    },
+    {
+      "name": "Java",
+      "keywords": ["LWJGL", "JOML"]
+    },
+    {
+      "name": "R",
+      "keywords": ["R Markdown", "Tidyverse"]
+    },
+    {
+      "name": "TeX",
+      "keywords": ["TeX Live", "LaTeX"]
+    },
+    {
+      "name": "Web Dev",
+      "keywords": ["HTML", "CSS", "Bootstrap", "JavaScript"]
+    },
+    {
+      "name": "Other",
+      "keywords": ["VIM", "Haskell", "Git", "C", "MIPS assembly"]
+    },
+    {
+      "name": "Platforms",
+      "keywords": ["Linux (Arch Based)", "MacOS", "Windows"]
+    }
+  ],
   "languages": [
     {
       "language": "Chinese (mandarin)",
